@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows netoworking works. Our Objectives are to setup a basic home lab running active directory (Oracle VirtualBox)
+In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop my understanding of how active directory and windows networking works. Our Objectives are to setup a basic home lab running active directory (Oracle VirtualBox)
 <br />
 
 
