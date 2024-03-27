@@ -3,24 +3,25 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows netoworking works, so I'd highly recommend running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without any outsourced help. Please let me know if you have any questions!
+In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows netoworking works. Our Objectives are to setup a basic home lab running active directory (Oracle VirtualBox)
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Steps</h2>
+ 1.Download and install Oracle Box 2.Download Windows 10 ISO 3.Create first virtual machine(domain controller) 4.install server 2019 and sign IP addressing for internal network 5.Name the server, Install active directory and create domain. 5. Setup DHCP server 6. Create powershell script 
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Project Layout: <br/>
+<img src="https://imgur.com/6zNBP1u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+https://imgur.com/6zNBP1u
+
+![alt text](https://imgur.com/6zNBP1u)
+
 
 <!--
  ```diff
