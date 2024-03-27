@@ -13,17 +13,12 @@ In this lab we're going to walk through how to create an Active Directory home l
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
 
-<h2>Environments Used </h2>
-<p align="center">
-Project Layout: <br/>
-<img src="https://imgur.com/6zNBP1u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-https://imgur.com/6zNBP1u
+<h2>Environment Layout </h2>
+
 
 <img width="1244" alt="Screenshot 2024-03-27 at 8 04 57 AM" src="https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/1a959662-f630-42cf-914f-d0509e80eb69">
 
 
-<!--
  ```diff
 - text in red
 + text in green
