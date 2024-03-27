@@ -1,6 +1,6 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
 <h2>Description</h2>
 In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows netoworking works. Our Objectives are to setup a basic home lab running active directory (Oracle VirtualBox)
@@ -15,6 +15,10 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 <h2>Environment Layout </h2>
 
+<img width="744" alt="Screenshot 2024-03-27 at 8 12 07 AM" src="https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/8914c649-bb23-4153-a4bc-aa3671bd5075">
+
+<h2>Step 1 : Oracle VM</h2>
+Install VMBox and Extension Packs 
 
 <img width="1244" alt="Screenshot 2024-03-27 at 8 04 57 AM" src="https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/1a959662-f630-42cf-914f-d0509e80eb69">
 
