@@ -20,7 +20,7 @@ Project Layout: <br/>
 <br />
 https://imgur.com/6zNBP1u
 
-![alt text](https://imgur.com/6zNBP1u)
+<img width="1244" alt="Screenshot 2024-03-27 at 8 04 57 AM" src="https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/1a959662-f630-42cf-914f-d0509e80eb69">
 
 
 <!--
