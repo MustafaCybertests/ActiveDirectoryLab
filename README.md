@@ -22,6 +22,13 @@ Install VMBox and Extension Packs
 
 <img width="1244" alt="Screenshot 2024-03-27 at 8 04 57 AM" src="https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/1a959662-f630-42cf-914f-d0509e80eb69">
 
+<h2>Step 2 : Server2019ISO + Windows 10 ISO</h2>
+Install Server2019 ISO and Windows 10 ISO  
+
+<h2>Step 3 : Setup Our Virtual Machine</h2>
+
+
+
 
  ```diff
 - text in red
