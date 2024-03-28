@@ -8,7 +8,7 @@ In this lab we're going to walk through how to create an Active Directory home l
 
 
 <h2>Steps</h2>
- 1.Download and install Oracle Box 2.Download Windows 10 ISO 3.Create first virtual machine(domain controller) 4.install server 2019 and sign IP addressing for internal network 5.Name the server, Install active directory and create domain. 5. Setup DHCP server 6. Create powershell script 
+ 1.Download and install Oracle Box 2.Download Windows 10 ISO+ Server 2019ISO 3.Create first virtual machine(domain controller) 4.install server 2019 and sign IP addressing for internal network 5.Name the server, Install active directory and create domain. 5. Setup DHCP server 6. Create powershell script 
 
 - <b>PowerShell</b> 
 - <b>Diskpart</b>
