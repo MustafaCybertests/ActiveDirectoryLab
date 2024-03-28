@@ -28,6 +28,26 @@ Install Server2019 ISO and Windows 10 ISO
 <h2>Step 3 : Setup Our Virtual Machine</h2>
 
 
+first we configure the settings for adapter 1 to be our NIC to the internet, and Adapter 2 to the internal network  
+![ACTIVEDIRECT2](https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/c445129e-a85d-4dfa-a6a4-cfda408b4a78)
+
+- After configuring our network, we boot the VM to install Server 2019 ISO into the Virtual Machine
+
+![ISO ADD](https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/56e013b9-06a8-4188-9467-5c13901f10be)
+
+- Go through all the steps of installation
+
+![isoadown](https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/0e3c21c5-f2c8-4640-a004-b1fef79d8a70)
+
+![Screenshot 2024-03-27 193852](https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/31a52d72-46c9-4912-8fdd-c46ed9616568)
+
+- After finishing the installation, I quickly ran the Oracle VM guest additions in order to get faster response time from the VM!
+
+![files](https://github.com/MustafaCybertests/ActiveDirectoryLab/assets/155025144/10be20e5-1ad3-4e44-aa2a-e11588c9255f)
+
+
+
+
 
 
  ```diff
