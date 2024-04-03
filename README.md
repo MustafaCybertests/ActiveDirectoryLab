@@ -3,13 +3,13 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=MHsI8hJmggI)
 
 <h2>Description</h2>
-In this lab we're going to walk through how to create an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop my understanding of how active directory and windows networking works. Our Objectives are to setup a basic home lab running active directory (Oracle VirtualBox)
+In this lab I am going to walk through how I created an Active Directory home lab Enviorment using Oracle Virtual Box. Configuring and running this lab will definitely help develop my understanding of how active directory works and windows networking in general. I will create this Active Directory while running a powershell script that will automatically create 1,000 users in Active Directory
 <br />
 
 
 <h2>Steps</h2>
 
-- <b>STEP 1: Download and Install Windows 10, SERVER2019ISO, OracleVM </b> 
+- <b>STEP 1: Download and Install OracleVM, Windows 10, and SERVER2019ISO </b> 
 - <b>STEP 2: Create and setup first virtual machine(domain controller) </b>
 - <b>Step 3 : Configure IP Addressing on both NICs </b> 
 - <b>Step 4 : INSTALL AD DS(Active Directory Domain Services) & create a Domain </b>
